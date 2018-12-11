@@ -1,0 +1,316 @@
+[
+    {
+        "outputFile": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 44,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 52,
+                    "endOffset": 315
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 320,
+                    "endColumn": 54,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endColumn": 57,
+                    "endOffset": 428
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 433,
+                    "endColumn": 78,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 73,
+                    "endOffset": 581
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 586,
+                    "endColumn": 52,
+                    "endOffset": 634
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 639,
+                    "endColumn": 52,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 56,
+                    "endOffset": 744
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 749,
+                    "endColumn": 76,
+                    "endOffset": 821
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 826,
+                    "endColumn": 62,
+                    "endOffset": 884
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 889,
+                    "endColumn": 68,
+                    "endOffset": 953
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 958,
+                    "endColumn": 73,
+                    "endOffset": 1027
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1346,
+                        "endColumn": 73,
+                        "endOffset": 1415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1032,
+                    "endColumn": 80,
+                    "endOffset": 1108
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1113,
+                    "endColumn": 75,
+                    "endOffset": 1184
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1189,
+                    "endColumn": 56,
+                    "endOffset": 1241
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1246,
+                    "endColumn": 68,
+                    "endOffset": 1310
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1315,
+                    "endColumn": 66,
+                    "endOffset": 1377
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1382,
+                    "endColumn": 73,
+                    "endOffset": 1451
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1456,
+                    "endColumn": 53,
+                    "endOffset": 1505
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1510,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1796
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1801,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1956
+                },
+                "from": {
+                    "file": "C:\\Users\\josphine\\AndroidStudioProjects\\MyBaby\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.brayodhis.mybaby"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/download"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name=".DidYou"
+            android:label="@string/title_activity_did_you" />
+        <activity
+            android:name=".OnTheMother"
+            android:label="@string/title_activity_on_the_mother" />
+        <activity
+            android:name=".FirstTrimester"
+            android:label="@string/title_activity_first_trimester" />
+        <activity
+            android:name=".SecondTrimester"
+            android:label="@string/title_activity_second_trimester" />
+        <activity
+            android:name=".ThirdTremester"
+            android:label="@string/title_activity_third_tremester" />
+        <activity
+            android:name=".FirstThreeMonths"
+            android:label="@string/title_activity_first_three_months" />
+        <activity
+            android:name=".SecondThreeMonths"
+            android:label="@string/title_activity_second_three_months" />
+        <activity
+            android:name=".LastThreeMonths"
+            android:label="@string/title_activity_last_three_months" />
+        <activity
+            android:name=".Child"
+            android:label="@string/title_activity_child" />
+        <activity
+            android:name=".ToDo"
+            android:label="@string/title_activity_to_do" />
+        <activity
+            android:name=".Info"
+            android:label="@string/title_activity_info" />
+        <activity
+            android:name=".ThingsToDo"
+            android:label="@string/title_activity_things_to_do" />
+        <activity
+            android:name=".ThingsNotTo"
+            android:label="@string/title_activity_things_not_to" />
+        <activity
+            android:name=".Nutrition"
+            android:label="@string/title_activity_nutrition" />
+        <activity
+            android:name=".Labour"
+            android:label="@string/title_activity_labour" />
+        <activity
+            android:name=".Have"
+            android:label="@string/title_activity_have" />
+        <activity
+            android:name=".PregnancyGuide"
+            android:label="@string/title_activity_pregnancy_guide">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

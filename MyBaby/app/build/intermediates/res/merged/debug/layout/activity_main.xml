@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/child"
+    tools:context=".MainActivity" >
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="105dp">
+
+
+
+        <Button
+            android:onClick="mother"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="Changes on The Mother"
+            android:id="@+id/btnMother" />
+
+        <Button
+            android:onClick="child"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="Changes on The Child"
+            android:id="@+id/btnChild" />
+
+        <Button
+            android:onClick="todo"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="To Do List"
+            android:id="@+id/btnTo" />
+
+        <Button
+            android:onClick="did"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="Did You Know"
+            android:id="@+id/btnDid" />
+
+
+        <Button
+            android:onClick="info"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Info Panel"
+            android:id="@+id/btnInfo"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+    </LinearLayout>
+
+</RelativeLayout>

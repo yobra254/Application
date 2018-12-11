@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Baby</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_did_you">DidYou</string>
+    <string name="title_activity_on_the_mother">OnTheMother</string>
+    <string name="title_activity_first_trimester">FirstTrimester</string>
+    <string name="title_activity_second_trimester">SecondTrimester</string>
+    <string name="title_activity_third_tremester">ThirdTremester</string>
+    <string name="title_activity_first_three_months">FirstThreeMonths</string>
+    <string name="title_activity_second_three_months">SecondThreeMonths</string>
+    <string name="title_activity_last_three_months">LastThreeMonths</string>
+    <string name="title_activity_child">Child</string>
+    <string name="title_activity_to_do">ToDo</string>
+    <string name="title_activity_info">Info</string>
+    <string name="title_activity_things_to_do">ThingsToDo</string>
+    <string name="title_activity_things_not_to">ThingsNotTo</string>
+    <string name="title_activity_nutrition">Nutrition</string>
+    <string name="title_activity_labour">Labour</string>
+    <string name="title_activity_have">Have</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_pregnancy_guide">PregnancyGuide</string>
+
+</resources>
